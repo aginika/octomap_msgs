@@ -1,0 +1,4 @@
+geometry_msgs/PoseStamped[] origins
+geometry_msgs/PoseStamped[] directions
+---
+geometry_msgs/PoseStamped[] ends
